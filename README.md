@@ -10,9 +10,16 @@ This project is a simple PHP user and role management system designed to demonst
 on the path to your project 
 ´cd classroom-working-student-backend-development´
 
-- Install Composer dependencies
-  ´composer install´
+## How to run the demo script
 
-- Run the demo script php
-   ´demo.php´
-  
+To test your solution and see example output, use the provided `Demo.php` script in the `tests` folder.
+
+1. Install Composer dependencies for autoloading:
+   ```sh
+   composer install
+   ```
+
+2. Run the demo script using PHP:
+   ```sh
+   php demo.php
+   ```
