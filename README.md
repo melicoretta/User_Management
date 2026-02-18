@@ -11,8 +11,8 @@ on the path to your project
 ´cd classroom-working-student-backend-development´
 
 - Install Composer dependencies
-  composer install
+  ´composer install´
 
 - Run the demo script php
-   demo.php
+   ´demo.php´
   
